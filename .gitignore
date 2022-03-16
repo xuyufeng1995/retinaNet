@@ -1,0 +1,6 @@
+*.pth
+runs
+videos
+*.jpg
+*.png
+.idea
